@@ -27,5 +27,5 @@ Follow these steps to run the project locally.
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/YourUsername/FoodDeliveryApp.git
+git clone  https://github.com/Yug3010/FoodDeliveryApp.git
 cd FoodDeliveryApp
